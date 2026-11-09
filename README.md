@@ -120,7 +120,3 @@ Deploying a trained model in a Python application
 Sakshi Chaudhari
 
 GitHub: https://github.com/sakshichaudhari209
-
-📜 License
-
-This project is available for educational and learning purposes. See the LICENSE file for licensing terms.
